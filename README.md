@@ -1,6 +1,7 @@
+<div align="center"> <img src="https://raw.githubusercontent.com/shujaatzameer/shujaatzameer/main/giph.gif"> </div>
 <h1 align="center">Hi 👋, I'm Shujaat Zameer Khan</h1>
 <h3 align="center">A enthusiastic data analyst, I'm on a relentless quest to decode the stories hidden within the numbers and charts. Connect with me on linkedin https://www.linkedin.com/in/shujaat-zameer/</h3>
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shujaatzameer&label=Profile%20views&color=0e75b6&style=flat" alt="shujaatzameer" /> </p>
 
 - 🔭 I’m currently working on **Power BI Projects**
