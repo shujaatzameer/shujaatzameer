@@ -27,3 +27,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shujaatzameer&show_icons=true&locale=en" alt="shujaatzameer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shujaatzameer&" alt="shujaatzameer" /></p>
+
+
+### 📈 My GitHub Contributions
+![Snake animation](https://github.com/shujaatzameer/shujaatzameer/blob/output/github-contribution-grid-snake.svg)
